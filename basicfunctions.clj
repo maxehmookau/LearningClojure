@@ -7,7 +7,7 @@
 (println (convert-to-set 1 2))
 
 (let [pi 3.14
-r 2
-r-squared (* r r)]
-(println (* pi r-squared)))
+    r 2
+    r-squared (* r r)]
+    (println (* pi r-squared)))
 
